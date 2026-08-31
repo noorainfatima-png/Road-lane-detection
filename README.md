@@ -81,12 +81,4 @@ road-lane-detection/
 ├── README.md
 └── .gitignore
 
-▶️ How to Run
 
-Install the required libraries:
-
-pip install -r requirements.txt
-
-▶️ Run the program:
-
-python lane_detection.py
